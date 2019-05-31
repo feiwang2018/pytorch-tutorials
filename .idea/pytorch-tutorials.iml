@@ -6,6 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="python-opencv" />
     <orderEntry type="module" module-name="tmp" />
+    <orderEntry type="module" module-name="experiments" />
+    <orderEntry type="module" module-name="annotation_videos" />
+    <orderEntry type="module" module-name="work2018" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />

@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../annotation_videos/.idea/annotation_videos.iml" filepath="$PROJECT_DIR$/../annotation_videos/.idea/annotation_videos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../experiments/.idea/experiments.iml" filepath="$PROJECT_DIR$/../experiments/.idea/experiments.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python-opencv/.idea/python-opencv.iml" filepath="$PROJECT_DIR$/../python-opencv/.idea/python-opencv.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pytorch-tutorials.iml" filepath="$PROJECT_DIR$/.idea/pytorch-tutorials.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tmp/.idea/tmp.iml" filepath="$PROJECT_DIR$/../tmp/.idea/tmp.iml" />
+      <module fileurl="file://E:/work2018/.idea/work2018.iml" filepath="E:/work2018/.idea/work2018.iml" />
     </modules>
   </component>
 </project>
