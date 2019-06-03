@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="wangf@172.20.107.40:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/raid/wangf/software/anaconda3/envs/project/.work/work/pytorch-tutorials" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

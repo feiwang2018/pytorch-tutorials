@@ -67,3 +67,12 @@ mymodel_load.eval()#  before running ,must use mymodel_load.eval() to dropout an
 # model.eval()
 # #or
 # model.train()
+
+
+#   saving and loading module across devices
+# save gpu,but load cpu
+#torch.save(mymodel.state_dict(),PATH)
+#   load cpu
+# device=torch.device('cpu')
+# model1=ModelClass(*args,**args)
+# model1.load_state_dict(torch.load(PATH,map_location=device))
